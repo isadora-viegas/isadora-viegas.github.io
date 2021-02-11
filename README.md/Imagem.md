@@ -1,1 +1,1 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.mastertech.com.br%2Fcarreira%2Fcomo-e-um-portfolio-web-developer-e-como-fazer-o-meu%2F&psig=AOvVaw1MCA5Z-npmDgSEeShe6OOU&ust=1613129038544000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDDrZDc4e4CFQAAAAAdAAAAABAD" width="200px">
+<img src="https://blog.mastertech.com.br/wp-content/uploads/2017/07/portfolio-1100x493.png" width="200px">
